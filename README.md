@@ -62,7 +62,7 @@ It focuses on a smooth user experience:
 
 **Recommended file naming:**
 
-* `SharePointDownloader_v14.exe`
+* `SharePointDownloader_v3.exe`
 
 ### ✅ Optional: Verify integrity (SHA256)
 
@@ -237,9 +237,9 @@ Notes:
 
 ## 🧾 Changelog (Suggested)
 
-* **v14** — robust installer (FFmpeg recovery), proxy UI, pause/resume, history logging
-* **v15** (planned) — packaging improvements, better error UX, richer reports
-* **v16** (planned) — update checker, portable mode, enhanced format selector
+* **v1** — robust installer (FFmpeg recovery), proxy UI, pause/resume, history logging
+* **v2** (planned) — packaging improvements, better error UX, richer reports
+* **v3** (planned) — update checker, portable mode, enhanced format selector
 
 ---
 
@@ -249,8 +249,3 @@ Notes:
 
 * GitHub: [https://github.com/AbdulRhmanAbdulGhaffar](https://github.com/AbdulRhmanAbdulGhaffar)
 
----
-
-## 📄 License
-
-MIT License
