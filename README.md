@@ -2,7 +2,7 @@
 
 > **Professional Windows GUI app to download Microsoft Stream & SharePoint-hosted media** using `yt-dlp` — with **browser-based login (MFA friendly)**, **cookies import**, **proxy support**, and **automatic FFmpeg recovery**.
 
-![Version](https://img.shields.io/badge/version-v14-blue)
+![Version](https://img.shields.io/badge/version-v1...3-blue)
 ![UI](https://img.shields.io/badge/UI-Tkinter-lightgrey)
 ![Engine](https://img.shields.io/badge/engine-yt--dlp-orange)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D4)
